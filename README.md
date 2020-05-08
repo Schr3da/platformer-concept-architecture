@@ -4,8 +4,10 @@ This code sample has code architecture characteristic and follows a clean code a
 
 # Controls
 
+```
 a - move left
-
 d - move right
-
 , - jump
+```
+
+
